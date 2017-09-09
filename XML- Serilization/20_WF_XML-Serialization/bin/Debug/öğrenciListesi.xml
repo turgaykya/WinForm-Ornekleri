@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Öğrenci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ad>Sultan</Ad>
+  <Soyad>Öztürk</Soyad>
+  <OkulNo>5</OkulNo>
+  <DoğumTarihi>2016-09-02T11:59:38.3117418+03:00</DoğumTarihi>
+</Öğrenci>

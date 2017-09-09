@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\Entities\bin\Debug\Entities.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\Entities\bin\Debug\Entities.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\Entities\obj\Debug\Entities.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\Entities\obj\Debug\Entities.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\bin\Debug\Entities.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\bin\Debug\Entities.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\obj\Debug\Entities.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\obj\Debug\Entities.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\bin\Debug\Entities.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\bin\Debug\Entities.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\obj\Debug\Entities.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\Entities\obj\Debug\Entities.pdb

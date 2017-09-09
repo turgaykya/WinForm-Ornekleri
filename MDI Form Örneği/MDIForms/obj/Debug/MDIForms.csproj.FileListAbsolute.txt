@@ -1,0 +1,16 @@
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\bin\Debug\MDIForms.exe.config
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.exe
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.pdb
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\bin\Debug\MDIForms.exe
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\bin\Debug\MDIForms.pdb
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.CalculatorForm.resources
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.EmployeeForm.resources
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.EmployeeListForm.resources
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.Form1.resources
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.ProductForm.resources
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.Properties.Resources.resources
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.csproj.GenerateResource.Cache
+C:\Users\Erdi Akyüz\Google Drive\Alfa\Eğitim\_Diğer\NBUY_01022016_20062016\6.Hafta\Lecture 160308\MDIForms\obj\Debug\MDIForms.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\Lecture 160829\MDIForms\bin\Debug\MDIForms.exe.config
+C:\Users\BURAK\Desktop\Lecture 160829\MDIForms\obj\Debug\MDIForms.exe
+C:\Users\BURAK\Desktop\Lecture 160829\MDIForms\obj\Debug\MDIForms.pdb

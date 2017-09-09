@@ -1,0 +1,26 @@
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form1.resources
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Properties.Resources.resources
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csproj.GenerateResource.Cache
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Observer\Documents\Visual Studio 2015\Projects\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form2.resources
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form1.resources
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Form2.resources
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\_20_WF_XML_Serialization.Properties.Resources.resources
+C:\Users\Erdi Akyüz\Desktop\WindowsForms\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.csproj.GenerateResource.Cache
+C:\Users\Ferhat\Music\Desktop\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Ferhat\Music\Desktop\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Ferhat\Music\Desktop\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\WF_XML-Serialization\20_WF_XML-Serialization\bin\Debug\20_WF_XML-Serialization.exe.config
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.exe
+C:\Users\Ferhat\Documents\Visual Studio 2015\Projects\WF_XML-Serialization\20_WF_XML-Serialization\obj\Debug\20_WF_XML-Serialization.pdb

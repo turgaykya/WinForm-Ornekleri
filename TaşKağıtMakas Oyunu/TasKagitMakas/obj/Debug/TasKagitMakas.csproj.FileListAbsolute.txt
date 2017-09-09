@@ -1,0 +1,20 @@
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
+c:\users\burak\documents\visual studio 2013\Projects\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.FormGiris.resources
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.csprojResolveAssemblyReference.cache
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.Form1.resources
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.FormGiris.resources
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.Properties.Resources.resources
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.Cache
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+E:\YAZILIM\PROJELER YEDEK\SIFIRDAN_CALISMA\TasKagitMakas\obj\Debug\TasKagitMakas.pdb

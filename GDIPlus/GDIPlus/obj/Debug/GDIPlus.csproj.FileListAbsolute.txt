@@ -1,0 +1,15 @@
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\bin\Debug\GDIPlus.pdb
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\obj\Debug\GDIPlus.exe
+c:\users\ba\documents\visual studio 2013\Projects\GDIPlus\GDIPlus\obj\Debug\GDIPlus.pdb
+C:\Users\Gunaydın\Downloads\Stage Windows Form (1)\Stage Windows Form\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe.config
+C:\Users\Gunaydın\Downloads\Stage Windows Form (1)\Stage Windows Form\GDIPlus\GDIPlus\obj\Debug\GDIPlus.exe
+C:\Users\Gunaydın\Downloads\Stage Windows Form (1)\Stage Windows Form\GDIPlus\GDIPlus\obj\Debug\GDIPlus.pdb
+C:\Users\BURAK\Desktop\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe.config
+C:\Users\BURAK\Desktop\GDIPlus\GDIPlus\obj\Debug\GDIPlus.exe
+C:\Users\BURAK\Desktop\GDIPlus\GDIPlus\obj\Debug\GDIPlus.pdb

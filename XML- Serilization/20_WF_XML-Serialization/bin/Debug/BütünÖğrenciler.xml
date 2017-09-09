@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfÖğrenci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Öğrenci>
+    <Ad>deneme</Ad>
+    <Soyad>test</Soyad>
+    <OkulNo>6</OkulNo>
+    <DoğumTarihi>2002-09-02T12:20:51</DoğumTarihi>
+  </Öğrenci>
+  <Öğrenci>
+    <Ad>test</Ad>
+    <Soyad>DEneme</Soyad>
+    <OkulNo>14</OkulNo>
+    <DoğumTarihi>1993-09-02T12:21:03</DoğumTarihi>
+  </Öğrenci>
+</ArrayOfÖğrenci>

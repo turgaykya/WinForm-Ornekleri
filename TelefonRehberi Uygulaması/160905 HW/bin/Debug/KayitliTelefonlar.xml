@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfKayit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kayit>
+    <Id>1</Id>
+    <Ad>asda</Ad>
+    <Soyad>sadas</Soyad>
+    <Telefon> (123) 123-12-31</Telefon>
+  </Kayit>
+</ArrayOfKayit>

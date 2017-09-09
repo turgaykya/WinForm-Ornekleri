@@ -1,0 +1,18 @@
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\bin\Debug\01_Linq.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\bin\Debug\01_Linq.exe
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\bin\Debug\01_Linq.pdb
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\obj\Debug\01_Linq.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\obj\Debug\_01_Linq.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\obj\Debug\_01_Linq.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\obj\Debug\01_Linq.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\obj\Debug\01_Linq.exe
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\01_Linq\obj\Debug\01_Linq.pdb
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\bin\Debug\01_Linq.exe.config
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\bin\Debug\01_Linq.exe
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\bin\Debug\01_Linq.pdb
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\obj\Debug\01_Linq.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\obj\Debug\_01_Linq.Form1.resources
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\obj\Debug\_01_Linq.Properties.Resources.resources
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\obj\Debug\01_Linq.csproj.GenerateResource.Cache
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\obj\Debug\01_Linq.exe
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_11-Linq\01_Linq\obj\Debug\01_Linq.pdb

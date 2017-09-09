@@ -1,0 +1,10 @@
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\bin\Debug\Iskambil.exe.config
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\bin\Debug\Iskambil.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\bin\Debug\Iskambil.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\obj\Debug\Iskambil.csprojResolveAssemblyReference.cache
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\obj\Debug\Iskambil.Properties.Resources.resources
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\obj\Debug\Iskambil.csproj.GenerateResource.Cache
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\obj\Debug\Iskambil.exe
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\obj\Debug\Iskambil.pdb
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\obj\Debug\Iskambil.Game.resources
+c:\users\ferhat\documents\visual studio 2015\Projects\Iskambil\Iskambil\obj\Debug\Iskambil.GameStart.resources

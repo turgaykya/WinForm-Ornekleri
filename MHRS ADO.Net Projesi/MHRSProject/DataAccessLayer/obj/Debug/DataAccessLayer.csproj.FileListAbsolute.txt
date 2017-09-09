@@ -1,0 +1,21 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\bin\Debug\Entities.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\bin\Debug\Entities.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\bin\Debug\Entities.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\bin\Debug\Entities.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

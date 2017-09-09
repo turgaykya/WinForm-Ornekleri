@@ -1,0 +1,9 @@
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\bin\Debug\paint.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\bin\Debug\paint.exe
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\bin\Debug\paint.pdb
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\obj\Debug\paint.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\obj\Debug\paint.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\obj\Debug\paint.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\obj\Debug\paint.exe
+c:\users\burak\documents\visual studio 2013\Projects\160831calisma\paint\obj\Debug\paint.pdb

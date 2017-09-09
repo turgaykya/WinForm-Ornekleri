@@ -1,0 +1,9 @@
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\bin\Debug\160905 HW.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\obj\Debug\160905 HW.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\obj\Debug\_160905_HW.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\obj\Debug\_160905_HW.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\obj\Debug\160905 HW.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\bin\Debug\160905 HW.exe
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\bin\Debug\160905 HW.pdb
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\obj\Debug\160905 HW.exe
+c:\users\burak\documents\visual studio 2013\Projects\160905 HW TelefonRehberi\160905 HW\obj\Debug\160905 HW.pdb

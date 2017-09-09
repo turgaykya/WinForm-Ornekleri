@@ -1,0 +1,12 @@
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\bin\Debug\161003 - Homework - CRUD.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\161003 - Homework - CRUD.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\_161003___Homework___CRUD.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\_161003___Homework___CRUD.FormEkle.resources
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\_161003___Homework___CRUD.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\161003 - Homework - CRUD.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\bin\Debug\161003 - Homework - CRUD.exe
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\bin\Debug\161003 - Homework - CRUD.pdb
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\161003 - Homework - CRUD.exe
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\161003 - Homework - CRUD.pdb
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\_161003___Homework___CRUD.FormGuncelle.resources
+c:\users\burak\documents\visual studio 2013\Projects\161003 - Homework - CRUD\161003 - Homework - CRUD\obj\Debug\_161003___Homework___CRUD.FormSil.resources

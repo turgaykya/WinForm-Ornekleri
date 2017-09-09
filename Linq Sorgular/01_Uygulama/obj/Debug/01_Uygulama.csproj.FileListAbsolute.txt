@@ -1,0 +1,26 @@
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\01_Uygulama.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\01_Uygulama.exe
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\01_Uygulama.pdb
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\EntityFramework.dll
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\EntityFramework.xml
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\01_Uygulama.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\_01_Uygulama.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\_01_Uygulama.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\01_Uygulama.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\01_Uygulama.exe
+c:\users\burak\documents\visual studio 2013\Projects\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\01_Uygulama.pdb
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\01_Uygulama.exe.config
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\01_Uygulama.exe
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\01_Uygulama.pdb
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\EntityFramework.dll
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\EntityFramework.SqlServer.dll
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\EntityFramework.xml
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\bin\Debug\EntityFramework.SqlServer.xml
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\01_Uygulama.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\_01_Uygulama.Form1.resources
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\_01_Uygulama.Properties.Resources.resources
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\01_Uygulama.csproj.GenerateResource.Cache
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\01_Uygulama.exe
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016-10-12_HOMEWORK\01_Uygulama\obj\Debug\01_Uygulama.pdb

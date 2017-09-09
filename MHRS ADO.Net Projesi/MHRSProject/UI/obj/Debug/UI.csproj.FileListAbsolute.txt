@@ -1,0 +1,60 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\UI.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\UI.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\UI.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\BusinessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\Entities.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\Entities.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.AddReserveForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.ForgetPasswordForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.UserInformation.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.SingUpForm.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\UI\obj\Debug\UI.ReserveHistory.resources
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\UI.exe.config
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.exe
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\UI.exe
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\UI.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\BusinessLayer.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\DataAccessLayer.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\Entities.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\BusinessLayer.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\DataAccessLayer.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\Entities.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.AddReserveForm.resources
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.ForgetPasswordForm.resources
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.Form1.resources
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.ReserveHistory.resources
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.SingUpForm.resources
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.UserInformation.resources
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\UI.exe.config
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\UI.exe
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\UI.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\BusinessLayer.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\DataAccessLayer.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\Entities.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\BusinessLayer.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\DataAccessLayer.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\bin\Debug\Entities.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.AddReserveForm.resources
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.ForgetPasswordForm.resources
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.Form1.resources
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.Properties.Resources.resources
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.ReserveHistory.resources
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.SingUpForm.resources
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.UserInformation.resources
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.exe
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\UI\obj\Debug\UI.pdb

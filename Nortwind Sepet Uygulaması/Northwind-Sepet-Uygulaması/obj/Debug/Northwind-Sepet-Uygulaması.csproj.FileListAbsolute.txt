@@ -1,0 +1,11 @@
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\bin\Debug\Northwind-Sepet-Uygulaması.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\bin\Debug\Northwind-Sepet-Uygulaması.exe
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\bin\Debug\Northwind-Sepet-Uygulaması.pdb
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\obj\Debug\Northwind-Sepet-Uygulaması.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Form2.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\obj\Debug\Northwind_Sepet_Uygulaması.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\obj\Debug\Northwind-Sepet-Uygulaması.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\obj\Debug\Northwind-Sepet-Uygulaması.exe
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\obj\Debug\Northwind-Sepet-Uygulaması.pdb
+D:\BURAK\YAZILIM\PROJELER YEDEK\2016_10_01-HomeWork\Northwind-Sepet-Uygulaması\obj\Debug\Northwind-Sepet-Uygulaması.pdb

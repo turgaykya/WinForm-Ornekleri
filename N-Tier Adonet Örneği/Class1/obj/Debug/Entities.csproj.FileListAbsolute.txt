@@ -1,0 +1,5 @@
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\Class1\bin\Debug\Class1.dll
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\Class1\bin\Debug\Class1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\Class1\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\Class1\obj\Debug\Class1.dll
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\Class1\obj\Debug\Class1.pdb

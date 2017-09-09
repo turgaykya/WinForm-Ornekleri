@@ -1,0 +1,10 @@
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\bin\Debug\02_Linq.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\bin\Debug\02_Linq.exe
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\bin\Debug\02_Linq.pdb
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\obj\Debug\_02_Linq.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\obj\Debug\_02_Linq.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\obj\Debug\02_Linq.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\obj\Debug\02_Linq.exe
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\obj\Debug\02_Linq.pdb
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\obj\Debug\_02_Linq.Form2.resources
+c:\users\burak\documents\visual studio 2013\Projects\2016_10_11-Linq\02_Linq\obj\Debug\02_Linq.csprojResolveAssemblyReference.cache

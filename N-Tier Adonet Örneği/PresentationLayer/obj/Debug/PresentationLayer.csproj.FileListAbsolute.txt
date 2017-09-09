@@ -1,0 +1,34 @@
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\PresentationLayer.exe
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\PresentationLayer.pdb
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\Class1.dll
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\ClassLibrary1.dll
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\DataAccessLayer.dll
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\Class1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\ClassLibrary1.pdb
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.CategoryEditForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.CategoryListForm.resources
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.exe
+c:\users\ba\documents\visual studio 2013\Projects\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\Class1.dll
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\ClassLibrary1.dll
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\Class1.pdb
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\ClassLibrary1.pdb
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.CategoryEditForm.resources
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.CategoryListForm.resources
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\BA\Desktop\2016_10_05-N-TierAdoNet\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache

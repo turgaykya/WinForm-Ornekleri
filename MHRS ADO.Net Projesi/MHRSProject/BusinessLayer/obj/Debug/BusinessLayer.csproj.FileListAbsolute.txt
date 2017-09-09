@@ -1,0 +1,27 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\BURAK\Desktop\GİTHUB\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\Entities.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\bin\Debug\Entities.pdb
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\BURAK\YAZILIM\GİTHUB yedeklenecekler\MHRS ADO.Net Grup Projesi\MHRSProject\BusinessLayer\obj\Debug\BusinessLayer.pdb

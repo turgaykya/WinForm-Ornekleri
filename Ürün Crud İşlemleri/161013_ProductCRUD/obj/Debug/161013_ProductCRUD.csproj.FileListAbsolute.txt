@@ -1,0 +1,13 @@
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\bin\Debug\161013_ProductCRUD.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\bin\Debug\161013_ProductCRUD.exe
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\bin\Debug\161013_ProductCRUD.pdb
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\bin\Debug\EntityFramework.dll
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\bin\Debug\EntityFramework.xml
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\obj\Debug\161013_ProductCRUD.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\obj\Debug\_161013_ProductCRUD.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\obj\Debug\_161013_ProductCRUD.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\obj\Debug\161013_ProductCRUD.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\obj\Debug\161013_ProductCRUD.exe
+c:\users\burak\documents\visual studio 2013\Projects\161013_ProductCRUD\161013_ProductCRUD\obj\Debug\161013_ProductCRUD.pdb

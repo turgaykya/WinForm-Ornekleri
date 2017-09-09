@@ -1,0 +1,26 @@
+c:\users\burak\documents\visual studio 2013\Projects\Oyun\Oyun\bin\Debug\Oyun.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\Oyun\Oyun\bin\Debug\Oyun.exe
+c:\users\burak\documents\visual studio 2013\Projects\Oyun\Oyun\bin\Debug\Oyun.pdb
+c:\users\burak\documents\visual studio 2013\Projects\Oyun\Oyun\obj\Debug\Oyun.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\Oyun\Oyun\obj\Debug\Oyun.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\Oyun\Oyun\obj\Debug\Part4.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\Oyun\Oyun\obj\Debug\Oyun.exe
+c:\users\burak\documents\visual studio 2013\Projects\Oyun\Oyun\obj\Debug\Oyun.pdb
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\bin\Debug\Oyun.exe.config
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\obj\Debug\Oyun.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\obj\Debug\Oyun.pdb
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\bin\Debug\Oyun.exe
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\bin\Debug\Oyun.pdb
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\obj\Debug\Part4.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\obj\Debug\Oyun.Form1.resources
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\obj\Debug\Oyun.Properties.Resources.resources
+C:\Users\BURAK\Documents\Visual Studio 2013\Projects\160826WindowsFormPart4\Oyun\obj\Debug\Part4.csproj.GenerateResource.Cache
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\bin\Debug\Oyun.exe.config
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\bin\Debug\Oyun.exe
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\bin\Debug\Oyun.pdb
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\obj\Debug\Part4.csprojResolveAssemblyReference.cache
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\obj\Debug\Oyun.Form1.resources
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\obj\Debug\Oyun.Properties.Resources.resources
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\obj\Debug\Part4.csproj.GenerateResource.Cache
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\obj\Debug\Oyun.exe
+E:\YAZILIM\PROJELER YEDEK\160826WindowsFormPart4\Oyun\obj\Debug\Oyun.pdb
